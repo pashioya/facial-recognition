@@ -4,6 +4,9 @@ content
 .vscode
 .vscode/
 
+dataset/*
+
+vgg_face_dataset.tar.gz
 ### JupyterNotebooks template
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
