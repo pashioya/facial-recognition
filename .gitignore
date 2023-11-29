@@ -4,6 +4,8 @@ content
 .vscode
 .vscode/
 
+images/*
+
 dataset/*
 
 vgg_face_dataset.tar.gz
