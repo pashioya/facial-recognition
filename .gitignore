@@ -5,7 +5,7 @@ content
 .vscode/
 
 images/*
-
+vgg19_custom.h5
 dataset/*
 
 vgg_face_dataset.tar.gz
