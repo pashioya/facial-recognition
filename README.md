@@ -19,6 +19,6 @@ To further challenge the classifier and understand its limitations, I introduced
 
 ## Results
 
-The Results are decent, getting on average 75% accuracy on the predictions. More hyper parameter tuning and possibly model adjustments are needed to improve the accuracy. for example im experimenting with using `VGG19` instead of `VGG16`
+The Results are decent, getting on average 83% accuracy on the predictions. More hyper parameter tuning and possibly model adjustments are needed to improve the accuracy. for example im experimenting with using `VGG19` instead of `VGG16`
 
 ![Alt text](assets/result_confusion_matrix.png)
