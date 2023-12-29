@@ -4,6 +4,7 @@ content
 .vscode
 .vscode/
 
+models/*
 images/*
 vgg19_custom.h5
 dataset/*
