@@ -1,4 +1,4 @@
-# D Learning Transfer Learning
+# Deep Learning Transfer Learning
 
 ## Author 
 
